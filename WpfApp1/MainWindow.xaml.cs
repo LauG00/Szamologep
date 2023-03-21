@@ -24,6 +24,7 @@ namespace WpfApp1
         {
             InitializeComponent();
             char kar = 'a';
+            int szam = 112;
         }
     }
 }
